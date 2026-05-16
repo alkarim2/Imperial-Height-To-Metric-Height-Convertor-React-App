@@ -1,0 +1,1 @@
+The challenge was to create a React app that takes an imperial height as input then states the equivalent metric height as output. The language used was React. How it works is by the user inputting an imperial height into the app then an equivalent metric height is displayed as output.
